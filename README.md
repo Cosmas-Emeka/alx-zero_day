@@ -1,1 +1,1 @@
-My first Readme
+First of all # RTFM
